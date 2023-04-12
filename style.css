@@ -1,0 +1,27 @@
+body {
+  background: rgb(0, 123, 167);
+  justify-content: center;
+  text-align: center;
+}
+body input {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid black;
+  color: red;
+}
+body button {
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid black;
+  color: #9A2A2A;
+}
+body #one {
+  margin-top: 35vh;
+}
+body #two {
+  margin-top: 35vh;
+}
+body #no {
+  margin-top: 35vh;
+}
+body #ya {
+  margin-top: 35vh;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,29 @@
+$text: red;
+
+body {
+   background: rgb(0, 123, 167);
+   justify-content: center;
+   text-align: center;
+   input {
+      background: rgba(255, 255, 255, 0.7);
+      border: 1px solid black;
+      color: red;
+   }
+   button {
+      background: rgba(255, 255, 255, 0.7);
+      border: 1px solid black;
+      color: #9A2A2A;
+   }
+   #one {
+      margin-top: 35vh;
+   }
+   #two {
+      margin-top: 35vh;
+   }
+   #no {
+      margin-top: 35vh;
+   }
+   #ya {
+      margin-top: 35vh;
+   }
+}
